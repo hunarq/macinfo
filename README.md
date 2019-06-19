@@ -20,7 +20,7 @@ Docker must be installed to run the code inside docker, or python to run it loca
 Clone the project, then build the docker image using following command:
 
 ```
-docker run --rm -it macinfo
+docker build --tag=macinfo .
 ```
 
 then run it using:
