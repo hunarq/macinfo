@@ -11,6 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
+Signup and get your API-KEY from https://macaddress.io/api
+
 Docker must be installed to run the code inside docker, or python to run it locally
 
 ### Installing
