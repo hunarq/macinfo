@@ -7,7 +7,7 @@ Find company name associated with a MAC Address
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to run this.
 
 ### Prerequisites
 
@@ -15,7 +15,7 @@ Docker must be installed to run the code inside docker, or python to run it loca
 
 ### Installing
 
-Clone the project, then running following command:
+Clone the project, then build the docker image using following command:
 
 ```
 docker run --rm -it macinfo
